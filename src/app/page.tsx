@@ -1,6 +1,8 @@
+import { Studyroom } from "./_components/Studyroom";
 
 export default function Home() {
+
   return (
-    <div>home</div>
+    <Studyroom />
   )
 }
